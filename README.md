@@ -12,6 +12,7 @@ updates in [/Releases](https://github.com/Superwheat/s-x/releases)
 
 обновления в [/Releases](https://github.com/Superwheat/s-x/releases)
 
+Tutorial (туториал) https://www.youtube.com/watch?v=7UoXTYzKjEo
 
 ![Synapse_UI_WPF_xPBOsecw2u](https://github.com/user-attachments/assets/8163bf33-82a1-4509-8a89-bd57a6871080)
 ![image](https://github.com/user-attachments/assets/b990b963-d884-45de-b200-27cb7928020d)
