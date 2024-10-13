@@ -4,13 +4,13 @@
 Folder to download first is compressed in https://github.com/Superwheat/s-x/blob/main/current-version
 
 
-updates in /Releases
+updates in [/Releases](https://github.com/Superwheat/s-x/releases)
 
 
 
 Папка которую нужно скачать первую сжата в https://github.com/Superwheat/s-x/blob/main/current-version
 
-обновления в /Releases
+обновления в [/Releases](https://github.com/Superwheat/s-x/releases)
 
 
 ![Synapse_UI_WPF_xPBOsecw2u](https://github.com/user-attachments/assets/8163bf33-82a1-4509-8a89-bd57a6871080)
