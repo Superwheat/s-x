@@ -3,7 +3,7 @@
 # NEW UPDATE - DOWNLOAD https://github.com/Superwheat/s-x/blob/main/current-version FULLY AGAIN EVEN IF YOU HAD IT ALREADY.
 
 
-# НОВОЕ ОБНОВЛЕНИЕ - СКАЧАЙте https://github.com/Superwheat/s-x/blob/main/current-version ПОЛНОСТЬЮ, ДАЖЕ ЕСЛИ ПЕРЕД ЭТИМ ОН УЖЕ БЫЛ.
+# НОВОЕ ОБНОВЛЕНИЕ - СКАЧАЙТЕ https://github.com/Superwheat/s-x/blob/main/current-version ПОЛНОСТЬЮ, ДАЖЕ ЕСЛИ ПЕРЕД ЭТИМ ОН УЖЕ БЫЛ.
 
 
 
