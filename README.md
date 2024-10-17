@@ -7,12 +7,13 @@
 
 And then this - А потом это - https://github.com/Superwheat/s-x/releases/tag/2.01
 
-=
+.
+.
+.
+.
+.
+.
 
-
-
-
- =
 Folder to download first is compressed in https://github.com/Superwheat/s-x/blob/main/current-version
 
 
