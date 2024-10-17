@@ -1,5 +1,11 @@
 # S^X
 
+# NEW UPDATE - DOWNLOAD https://github.com/Superwheat/s-x/blob/main/current-version FULLY AGAIN EVEN IF YOU HAD IT ALREADY.
+
+
+# НОВОЕ ОБНОВЛЕНИЕ - СКАЧАЙте https://github.com/Superwheat/s-x/blob/main/current-version ПОЛНОСТЬЮ, ДАЖЕ ЕСЛИ ПЕРЕД ЭТИМ ОН УЖЕ БЫЛ.
+
+
 
 Folder to download first is compressed in https://github.com/Superwheat/s-x/blob/main/current-version
 
