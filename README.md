@@ -5,7 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/89865a48-1cc5-414c-a17a-d08f8214e7e1)
 
-IF YOU DON'T DOWNLOAD THE NEW VERSION:
+IF YOU DON'T DOWNLOAD THE NEW VERSION - ЕСЛИ НЕ СКАЧАТЬ НОВЫЙ ЛОАДЕР:
 ![image](https://github.com/user-attachments/assets/e52e3a81-ef8d-4fba-8235-888b4821c8ac)
 
 
