@@ -1,9 +1,13 @@
 # S^X
 
-.exe:
 
+# .exe :
 
 ![image](https://github.com/user-attachments/assets/89865a48-1cc5-414c-a17a-d08f8214e7e1)
+
+IF YOU DON'T DOWNLOAD THE NEW VERSION:
+![image](https://github.com/user-attachments/assets/e52e3a81-ef8d-4fba-8235-888b4821c8ac)
+
 
 
 # NEW UPDATE - DOWNLOAD https://github.com/Superwheat/s-x/blob/main/current-version FULLY AGAIN EVEN IF YOU HAD IT ALREADY.
