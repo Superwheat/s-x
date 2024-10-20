@@ -1,1 +1,2 @@
+getgenv().bypass_adonis = false
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Absu245/SeliXide/refs/heads/main/hydroxide.lua'))()
