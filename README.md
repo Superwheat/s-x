@@ -1,19 +1,16 @@
 # S^X
 
+# NEW EDITOR - DOWNLOAD https://github.com/Superwheat/s-x/blob/main/current-version FULLY AGAIN EVEN IF YOU HAD IT ALREADY.
+
+
+# НОВЫЙ ЭДИТОР - СКАЧАЙТЕ https://github.com/Superwheat/s-x/blob/main/current-version ПОЛНОСТЬЮ, ДАЖЕ ЕСЛИ ПЕРЕД ЭТИМ ОН УЖЕ БЫЛ.
+
 
 # newest loader file :
 
-![image](https://github.com/user-attachments/assets/89865a48-1cc5-414c-a17a-d08f8214e7e1)
-
-IF YOU DON'T DOWNLOAD THE NEW VERSION - ЕСЛИ НЕ СКАЧАТЬ НОВЫЙ ЛОАДЕР:
-![image](https://github.com/user-attachments/assets/e52e3a81-ef8d-4fba-8235-888b4821c8ac)
+![image](https://github.com/user-attachments/assets/7f9ac491-ba22-4e90-9c1e-41579d78edc5)
 
 
-
-# NEW UPDATE - DOWNLOAD https://github.com/Superwheat/s-x/blob/main/current-version FULLY AGAIN EVEN IF YOU HAD IT ALREADY.
-
-
-# НОВОЕ ОБНОВЛЕНИЕ - СКАЧАЙТЕ https://github.com/Superwheat/s-x/blob/main/current-version ПОЛНОСТЬЮ, ДАЖЕ ЕСЛИ ПЕРЕД ЭТИМ ОН УЖЕ БЫЛ.
 
 And then this - А потом это - https://github.com/Superwheat/s-x/releases
  
