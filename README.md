@@ -22,7 +22,7 @@ And then this - А потом это - https://github.com/Superwheat/s-x/release
 Folder to download first is compressed in https://github.com/Superwheat/s-x/blob/main/current-version \
 Папка которую нужно скачать первую сжата в https://github.com/Superwheat/s-x/blob/main/current-version
 
-updates in [/Releases](https://github.com/Superwheat/s-x/releases)n
+updates in [/Releases](https://github.com/Superwheat/s-x/releases) \
 обновления в [/Releases](https://github.com/Superwheat/s-x/releases)
 
 Ctrl + Left Shift + 1 — Delete unused tabs - Удалить пустые вкладки\
