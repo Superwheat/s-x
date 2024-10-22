@@ -1,7 +1,7 @@
 # S^X
 # LOADER
 
-# Open Loader.exe to install (S^X UI.rar)
+# Open Loader.exe to install (Synapse Loader.rar)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Ctrl + Left Shift + 1 — Delete unused tabs - Удалить пустые вкладки\
