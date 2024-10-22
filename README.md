@@ -1,7 +1,7 @@
 # S^X
 # LOADER
 
-# Open Loader.exe to install
+# Open Loader.exe to install (S^X UI.rar)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Ctrl + Left Shift + 1 — Delete unused tabs - Удалить пустые вкладки\
