@@ -12,7 +12,7 @@ Ctrl 0 — Reset Zoom — Убрать зум
 Ctrl + S — Save Script — Сохранить скрипт\
 Ctrl + O — New Tab — Новая вкладка\
 
-Shift + F9 — Open\Close Synapse Console — Открыть \ Закрыть консоль\
+Shift + F9 — Open/Close Synapse Console — Открыть/Закрыть консоль\
 F9 — Close rconsole (if open) — Закрыть rconsole если открыта
 
 ![image](https://github.com/user-attachments/assets/5a3c3596-5a68-494b-a3ea-28cc703de5c9)
