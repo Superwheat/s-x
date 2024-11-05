@@ -1,6 +1,7 @@
 # S^X
 # Open Loader.exe to install (Synapse Loader.rar)
-![image](https://github.com/user-attachments/assets/770613d7-f9af-473a-9743-d71d6e30d806)
+![image](https://github.com/user-attachments/assets/3e88e8ca-6a2a-4484-b843-dce9e1b1f5e6)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
