@@ -13,7 +13,7 @@ Ctrl + S — Save Script — Сохранить скрипт\
 Ctrl + O — New Tab — Новая вкладка
 
 Shift + F9 — Open/Close Synapse Console — Открыть/Закрыть консоль\
-Ctrl + F9 — Close rconsole (if open) — Закрыть rconsole если открыта
+F9 — Close rconsole (if open) — Закрыть rconsole если открыта
 
 ![image](https://github.com/user-attachments/assets/5a3c3596-5a68-494b-a3ea-28cc703de5c9)
 ![image](https://github.com/user-attachments/assets/e3f5ede8-a4c2-40d5-9e9e-e15f63892da8)
