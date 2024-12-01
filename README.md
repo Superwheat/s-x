@@ -17,5 +17,5 @@ F9 — Close rconsole (if open) — Закрыть rconsole если откры�
 
 ![image](https://github.com/user-attachments/assets/b3525135-abc6-40fc-971e-41ce56bc5f16)
 ![image](https://github.com/user-attachments/assets/102a5897-0763-4de4-ad65-3b1c0fc03ac3)
-![image](https://github.com/user-attachments/assets/5213b401-02f0-4867-9276-6058545db9fc)
+![image](https://github.com/user-attachments/assets/78a4fb27-5bf7-467a-a887-ca319d2924d2)
 ![image](https://github.com/user-attachments/assets/4ec30d06-aff1-4056-b2bd-c49725459062)
