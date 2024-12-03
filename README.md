@@ -1,6 +1,6 @@
 # S^X
 # Open Loader.exe to install (Synapse Loader.rar)
-# CLICK THIS TO INSTALL: https://github.com/Superwheat/s-x/raw/refs/heads/main/Synapse%20Loader.rar
+# GO HERE TO INSTALL: https://github.com/Superwheat/s-x/raw/refs/heads/main/Synapse%20Loader.rar
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
